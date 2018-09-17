@@ -1,3 +1,6 @@
 [submodule "MKS65C-Euler"]
 	path = MKS65C-Euler
 	url = git@github.com:raunakchowdhury/MKS65C-Euler.git
+[submodule "pointy"]
+	path = pointy
+	url = git@github.com:raunakchowdhury/MKS65C-pointy.git
