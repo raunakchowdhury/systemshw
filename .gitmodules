@@ -4,3 +4,6 @@
 [submodule "euler"]
 	path = euler
 	url = git@github.com:raunakchowdhury/MKS65C-Euler.git
+[submodule "swap"]
+	path = swap
+	url = git@github.com:raunakchowdhury/MKS65C-swap.git
